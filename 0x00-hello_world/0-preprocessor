@@ -1,0 +1,2 @@
+#!/bin/bashk
+gcc $CFILE -c
